@@ -1,0 +1,21 @@
+{
+    "name": "CityExporter.Editor",
+    "rootNamespace": "",
+    "references": [
+        "CityExporter.Runtime",
+        "com.unity.cloud.gltfast.Export",
+        "glTFast",
+        "glTFast.Export"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
